@@ -1,0 +1,75 @@
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/Learn test/Learn_Tests/bin/Debug/net7.0/Learn_Tests.deps.json
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/Learn test/Learn_Tests/bin/Debug/net7.0/Learn_Tests.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/Learn test/Learn_Tests/bin/Debug/net7.0/Learn_Tests.pdb
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/Learn test/Learn_Tests/obj/Debug/net7.0/Learn_Tests.csproj.AssemblyReference.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/Learn test/Learn_Tests/obj/Debug/net7.0/Learn_Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/Learn test/Learn_Tests/obj/Debug/net7.0/Learn_Tests.AssemblyInfoInputs.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/Learn test/Learn_Tests/obj/Debug/net7.0/Learn_Tests.AssemblyInfo.cs
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/Learn test/Learn_Tests/obj/Debug/net7.0/Learn_Tests.csproj.CoreCompileInputs.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/Learn test/Learn_Tests/obj/Debug/net7.0/Learn_Tests.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/Learn test/Learn_Tests/obj/Debug/net7.0/refint/Learn_Tests.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/Learn test/Learn_Tests/obj/Debug/net7.0/Learn_Tests.pdb
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/Learn test/Learn_Tests/obj/Debug/net7.0/ref/Learn_Tests.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/bin/Debug/net7.0/Learn_Tests.deps.json
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/bin/Debug/net7.0/Learn_Tests.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/bin/Debug/net7.0/Learn_Tests.pdb
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/obj/Debug/net7.0/Learn_Tests.csproj.AssemblyReference.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/obj/Debug/net7.0/Learn_Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/obj/Debug/net7.0/Learn_Tests.AssemblyInfoInputs.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/obj/Debug/net7.0/Learn_Tests.AssemblyInfo.cs
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/obj/Debug/net7.0/Learn_Tests.csproj.CoreCompileInputs.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/obj/Debug/net7.0/Learn_Tests.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/obj/Debug/net7.0/refint/Learn_Tests.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/obj/Debug/net7.0/Learn_Tests.pdb
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/obj/Debug/net7.0/ref/Learn_Tests.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/bin/Debug/net7.0/Learn_Tests
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/bin/Debug/net7.0/Learn_Tests.runtimeconfig.json
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/bin/Debug/net7.0/Castle.Core.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/bin/Debug/net7.0/Moq.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/obj/Debug/net7.0/Learn_Tests.csproj.CopyComplete
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/DatabasUpg/Learn_Tests/obj/Debug/net7.0/Learn_Tests.genruntimeconfig.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/Learn_Tests
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/Learn_Tests.deps.json
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/Learn_Tests.runtimeconfig.json
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/Learn_Tests.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/Learn_Tests.pdb
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/Castle.Core.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/Moq.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.csproj.AssemblyReference.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.AssemblyInfoInputs.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.AssemblyInfo.cs
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.csproj.CoreCompileInputs.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.csproj.CopyComplete
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/refint/Learn_Tests.dll
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.pdb
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.genruntimeconfig.cache
+/home/leophold/Documents/Code/Programmering C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/ref/Learn_Tests.dll
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/Learn_Tests
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/Learn_Tests.deps.json
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/Learn_Tests.runtimeconfig.json
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/Learn_Tests.dll
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/Learn_Tests.pdb
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/Castle.Core.dll
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/Moq.dll
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.csproj.AssemblyReference.cache
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.AssemblyInfoInputs.cache
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.AssemblyInfo.cs
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.csproj.CoreCompileInputs.cache
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.csproj.CopyComplete
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.dll
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/refint/Learn_Tests.dll
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.pdb
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/Learn_Tests.genruntimeconfig.cache
+/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/obj/Debug/net7.0/ref/Learn_Tests.dll

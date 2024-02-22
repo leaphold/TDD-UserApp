@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QJEPOFewkyPxAD0zwlB2aM8w3xo2TvKWuP5oHcxq+sJEHKJ4ZfoZWoqNMHFTKbLBca4yYcqx8B8+0O9dYf8wIw==",
+  "success": true,
+  "projectFilePath": "/home/leophold/Documents/Code/C#/OOP/TDD/inlämning2/SimpleDatabaseApp/Learn_Tests/Learn_Tests.csproj",
+  "expectedPackageFiles": [
+    "/home/leophold/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/home/leophold/.nuget/packages/moq/4.20.70/moq.4.20.70.nupkg.sha512",
+    "/home/leophold/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
